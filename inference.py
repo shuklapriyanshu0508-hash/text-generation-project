@@ -1,35 +1,27 @@
-"""
-Text Generation Internship Task
-Inference Example
+import os
+from openai import OpenAI
 
-This script demonstrates the basic workflow of sending a prompt
-to a text-generation model and receiving generated text.
-"""
+# OpenAI API client
+client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
+
 
 def generate_text(prompt):
-    """
-    Example text-generation function.
-
-    In a real API implementation, this function would send the
-    prompt to the selected hosted/local language model.
-    """
-
-    # Placeholder response for demonstration
-    response = (
-        "This is an example generated response for the following prompt:\n\n"
-        + prompt
+    response = client.responses.create(
+        model="gpt-5.6-luna",
+        input=prompt
     )
 
-    return response
+    return response.output_text
 
 
 if __name__ == "__main__":
-    prompt = "Write a short story about a student who discovers a book in his college library."
-
-    output = generate_text(prompt)
+    prompt = (
+        "Write a short story about a student who discovers "
+        "the best book in his college library."
+    )
 
     print("Prompt:")
     print(prompt)
 
     print("\nGenerated Output:")
-    print(output)
+    print(generate_text(prompt))
