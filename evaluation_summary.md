@@ -1,23 +1,20 @@
 # Evaluation Summary
 
-The generated text samples were evaluated qualitatively for coherence, relevance, fluency, and consistency with the given prompts.
-
-## Results
-
-Most generated outputs were relevant to their prompts and were generally easy to understand. The model was able to produce short stories, explanations, descriptions, dialogues, and creative content with reasonable structure.
+The generated text samples were evaluated qualitatively based on relevance, coherence, fluency, prompt adherence, and diversity.
 
 ## Strengths
 
-- Good prompt understanding
-- Coherent and readable text
-- Suitable paragraph structure
-- Useful for creative and general text generation
-- Able to generate different styles of content
+- The model generally follows the given prompts.
+- Outputs are readable and understandable.
+- The model can handle creative writing, explanations, dialogues, descriptions, and professional writing tasks.
+- Different prompts produce different types of responses.
 
 ## Failure Modes
 
-Some outputs may become generic or repetitive, especially for similar prompts. Long-form generation can sometimes lose consistency or introduce unnecessary details. The model may also occasionally provide predictable wording.
+Some outputs may contain generic or repetitive wording. For more complex prompts, the model may provide shorter or less detailed responses than expected. Since SmolLM2-360M-Instruct is a relatively small language model, it may sometimes miss details or produce occasional inconsistencies.
 
 ## Overall Assessment
 
-The text generation system produces coherent and relevant responses for a variety of prompts. The main limitations are repetition, generic responses, and occasional inconsistencies in longer generations.
+The model performed reasonably well across the 20 selected prompts. Most generated samples were relevant to their respective prompts and demonstrated basic coherence and fluency. The main limitations were generic phrasing, limited detail, and occasional inconsistencies.
+
+Overall, the project demonstrates the use of an instruction-tuned language model for diverse text-generation tasks.
