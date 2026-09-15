@@ -1,16 +1,13 @@
 import os
 from openai import OpenAI
 
-# OpenAI API client
 client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
-
 
 def generate_text(prompt):
     response = client.responses.create(
         model="gpt-5.6-luna",
         input=prompt
     )
-
     return response.output_text
 
 
