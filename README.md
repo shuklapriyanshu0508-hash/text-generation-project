@@ -1,44 +1,15 @@
 # Text Generation Project
 
-Generative AI Text Generation Internship Task.
+This project demonstrates text generation using a Hugging Face instruction-tuned language model with 20 diverse prompts.
 
-This project demonstrates text generation using an OpenAI GPT model with 20+ diverse prompts.
+## Model Information
 
-## Project Overview
-
-The objective of this project is to generate text responses for different types of prompts and evaluate the quality of the generated outputs.
-
-The project includes:
-
-- 20+ diverse prompts
-- Generated text samples
-- Python inference script
-- Model information
-- Evaluation summary
-
-## Model Used
-
-**Model:** GPT-5.6 Luna
-
-**Provider:** OpenAI
-
-**Model ID:** `gpt-5.6-luna`
-
-**API:** OpenAI Responses API
-
-Model documentation:
-
-https://platform.openai.com/docs/models/gpt-4-turbo-and-gpt-4
-
-## Model Source and Terms
-
-The model is accessed through the OpenAI API.
-
-OpenAI Service Terms:
-
-https://openai.com/policies/service-terms/
-
-OpenAI API outputs are subject to the applicable OpenAI terms.
+- Model: SmolLM2-360M-Instruct
+- Provider: Hugging Face
+- Model ID: `HuggingFaceTB/SmolLM2-360M-Instruct`
+- License: Apache License 2.0
+- Model Source: https://huggingface.co/HuggingFaceTB/SmolLM2-360M-Instruct
+- Framework: Hugging Face Transformers
 
 ## Project Structure
 
@@ -47,8 +18,8 @@ text-generation-project/
 │
 ├── README.md
 ├── prompts.txt
-├── requirements.txt
 ├── inference.py
+├── requirements.txt
 ├── evaluation_summary.md
 │
 └── generated_samples/
@@ -56,5 +27,4 @@ text-generation-project/
     ├── sample_02.txt
     ├── sample_03.txt
     ├── ...
-    └── sample_20.txt# text-generation-project
-Generative AI Text Generation Internship Task — 20+ prompts, generated samples, inference code, and evaluation.
+    └── sample_20.txt
