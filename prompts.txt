@@ -1,0 +1,58 @@
+Prompt 1:
+Write a short story about a student who discovers the best book in his college library.
+
+Prompt 2:
+Write a professional email to a college professor requesting two days of leave due to a personal reason.
+Prompt 3:
+Explain Artificial Intelligence in simple language for a 10-year-old child.
+
+Prompt 4:
+Write a short product description for a modern wireless Bluetooth headphone.
+
+Prompt 5:
+Write a motivational speech for college students about achieving their goals.
+
+Prompt 6:
+Write a short poem about friendship and memories.
+
+Prompt 7:
+Write a dialogue between two friends discussing their future career plans.
+
+Prompt 8:
+Write a short article about the importance of learning new skills in today's world.
+
+Prompt 9:
+Write a professional LinkedIn post announcing the completion of an internship.
+
+Prompt 10:
+Write a customer support response to a customer who received a damaged product.
+
+Prompt 11:
+Write a short story about a student who uses technology to solve a difficult problem.
+
+Prompt 12:
+Summarize the importance of time management for college students in approximately 100 words.
+
+Prompt 13:
+Write a formal application to a college principal requesting permission to organize a technical event.
+
+Prompt 14:
+Write an advertisement for an online programming course for beginners.
+
+Prompt 15:
+Explain machine learning using a simple real-life example that a beginner can understand.
+
+Prompt 16:
+Write a travel guide describing the experience of visiting a beautiful hill station in India.
+
+Prompt 17:
+Write a short news-style article about a college organizing an artificial intelligence workshop.
+
+Prompt 18:
+Create a list of five practical tips for preparing for a job interview.
+
+Prompt 19:
+Write a short dialogue between a teacher and a student about the benefits of reading books.
+
+Prompt 20:
+Write a creative story about a young programmer who builds an AI assistant that changes his life.
