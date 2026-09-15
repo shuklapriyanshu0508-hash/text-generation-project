@@ -1,0 +1,12 @@
+
+
+This is a simple example of a function that takes a string as an argument and prints the string in reverse order.
+
+```python
+def reverse_string(s):
+    return s[::-1]
+
+print(reverse_string("Hello World"))
+```
+
+The `[::-1]` slice means "start at the end of the string and end at position 0, move with the step -1" which effectively reverses the string.

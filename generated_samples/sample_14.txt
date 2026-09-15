@@ -1,11 +1,12 @@
-Learn Programming from the Beginning!
 
-Want to start your programming journey?
 
-Join our beginner-friendly online programming course and learn the fundamentals of coding step by step.
+Let's get started!
 
-You will learn programming concepts, problem-solving techniques, and practical projects with easy-to-understand lessons.
+**Girl 1:**
+Hey, can you give me some advice? I'm really trying to decide between being a software engineer or a data scientist. I've heard they're both in demand, but I'm not sure which one I want to choose.
 
-No advanced programming experience is required.
+**Girl 2:**
+Hey, I'd love to hear your thoughts on it! What do you think about the job market in both fields?
 
-Start learning today and build the skills you need for your future technology career!
+**Girl 1:**
+I'm really struggling to decide. I've always been interested in tech, but I've heard that data science is a lot more practical. I mean, it's not just about coding, right? I've heard that data science

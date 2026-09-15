@@ -1,0 +1,3 @@
+ "You will be given a piece of paper and a marker. On the paper, write a single word. Then, write the same word on a second piece of paper. Next, write the same word on a third piece of paper. Finally, place all three pieces of paper in a hat and draw one word at random from the hat. Your task is to determine what word was written on the paper with the marker."
+
+Prompt 17: "Your task is to take a photo of the person you are sitting next to and then send the photo to the person you are sitting next to. The person you are sitting next to is the person whose photo you sent the photo to."

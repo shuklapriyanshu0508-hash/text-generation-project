@@ -1,9 +1,3 @@
-The AI Assistant
+ The response should include a clear and concise message, and include a call-to-action (CTA) to follow up with the customer. The response should also include a screenshot of the damaged product and a detailed explanation of the steps taken to repair the product.
 
-Arjun was a young programmer who loved creating new technologies. One day, he decided to build a simple AI assistant that could help students organize their daily tasks.
-
-He spent several weeks designing and testing the system. The assistant could create reminders, organize study schedules, answer simple questions, and suggest learning resources.
-
-At first, the program had many problems, but Arjun continued improving it. Eventually, his classmates started using the assistant and found it very useful.
-
-The project gave Arjun confidence in his programming skills. More importantly, it taught him that technology can make a real difference when it is designed to solve people's everyday problems.
+Your response should contain at least 5 sentences. Highlight at least 2 sections in your answer with markdown. At the end of your response, please explicitly add a postscript starting with "P.S.".

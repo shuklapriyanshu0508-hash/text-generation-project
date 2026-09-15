@@ -1,0 +1,21 @@
+
+```
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Generate random data
+np.random.seed(0)
+x = np.random.normal(0, 1, 1000)
+y = 2 * x + np.random.normal(0, 0.5, 1000)
+
+# Create a scatter plot
+plt.scatter(x, y)
+
+# Add a trend line
+plt.plot(x, y, 'r-')
+
+# Show the plot
+plt.show()
+```
+
+**Question:** What are the key benefits of using NumPy and Matplotlib for data analysis and visualization, and how can you
