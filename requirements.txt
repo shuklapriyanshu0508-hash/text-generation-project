@@ -1,1 +1,5 @@
-openai
+transformers
+torch
+accelerate
+sentencepiece
+requests
